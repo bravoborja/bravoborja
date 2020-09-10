@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Xfera Consumer Finance as Lead Android Developer
 - 🌱 I’m currently learning on Platzi and Udemy
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/borja-bravo/)
+
+## My Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc?username=bravoborja alt=bravoborja /> </p>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=bravoborja&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bravoborja&layout=compact)
