@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Xfera Consumer Finance as Lead Android Developer
+- 🔭 I’m currently working on Telefónica as Android Engineer
 - 🌱 I’m currently learning on Platzi and Udemy
 
 ## My Github Stats
