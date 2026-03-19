@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borja</h1>
 <h3 align="center">I'm a Senior Software Developer specialized in Android and iOS. I'm passionate about technology, sports and personal finance.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bravoborja&label=Profile%20views&color=0e75b6&style=flat" alt="bravoborja" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bravoborja" alt="bravoborja" /></a> </p>
-
 - 🔭 I’m currently working on **Telefónica Innovación Digital as Senior Engineer**
 
 - 🌱 I’m currently learning **on Platzi and Udemy**
